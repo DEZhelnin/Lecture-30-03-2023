@@ -1,0 +1,17 @@
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\30.03.2023_lec.exe
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\30.03.2023_lec.deps.json
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\30.03.2023_lec.runtimeconfig.json
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\30.03.2023_lec.dll
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\30.03.2023_lec.pdb
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.csproj.AssemblyReference.cache
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.AssemblyInfoInputs.cache
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.AssemblyInfo.cs
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.csproj.CoreCompileInputs.cache
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.csproj.CopyComplete
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.dll
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\refint\30.03.2023_lec.dll
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.pdb
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\30.03.2023_lec.genruntimeconfig.cache
+C:\Users\balla\source\repos\30.03.2023_lec\30.03.2023_lec\obj\Debug\net6.0\ref\30.03.2023_lec.dll

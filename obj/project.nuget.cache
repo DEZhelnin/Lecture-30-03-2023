@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "76IabTrYtqKx6EuyJg6r+LhNfTpFMj7iMcPdA/SO0hny8t+rQF8MiD1bwjTMPyM8zsC9VG1GnAkaaE4IjOdCqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balla\\source\\repos\\30.03.2023_lec\\30.03.2023_lec\\30.03.2023_lec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balla\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
